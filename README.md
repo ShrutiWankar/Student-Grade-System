@@ -1,6 +1,5 @@
 # Student Grade Management System — Enhanced (Java)
-
-A resume-ready Java console application to manage students, calculate averages, assign grades, search, update, delete, and export grade reports.
+A Java console application that efficiently manages student records, calculates averages, assigns grades, and provides search, update, delete, and report export functionalities.
 
 ## ✨ Features
 - Add students with variable number of subjects
